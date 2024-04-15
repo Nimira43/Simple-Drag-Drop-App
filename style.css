@@ -39,3 +39,48 @@ h1 {
     transition: background-color 0.3s ease-in-out;
 }
 
+.box:hover {
+    background: linear-grafient(
+        135deg,
+        darkorange,
+        orangered
+    );
+}
+
+.b01 {
+    background-color: cyan;
+}
+.b02 {
+    background-color: darkblue;
+}
+.b03 {
+    background-color: darkred;
+}
+.b04 {
+    background-color: red;
+}
+.b05 {
+    background-color: orange;
+}
+.b06 {
+    background-color: yellow;
+}
+.b07 {
+    background-color: green;
+}
+.b08 {
+    background-color: blue;
+}
+.b09 {
+    background-color: indigo;
+}
+.b10 {
+    background-color: violet;
+}
+.b11 {
+    background-color: magenta
+}
+.b12 {
+    background-color: beige;
+}
+
